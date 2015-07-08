@@ -1,0 +1,7 @@
+packages/*
+Droid/obj/*
+Droid/bin/*
+iOS/bin/*
+iOS/obj/*
+floatingbutton/bin/*
+floatingbutton/obj/*
