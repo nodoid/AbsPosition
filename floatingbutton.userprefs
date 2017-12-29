@@ -1,1 +1,10 @@
-﻿<Properties StartupItem="iOS/floatingbutton.iOS.csproj" />
+﻿<Properties StartupConfiguration="{D96BD63A-B867-4BDC-A108-D01E3D9FBD15}|Default">
+  <MonoDevelop.Ide.ItemProperties.floatingbutton.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.862E782F-CEFA-4078-BC42-52CABEADCCDE" />
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
